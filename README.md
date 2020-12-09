@@ -22,6 +22,7 @@ system.
 - *ml-100k* is the MovieLens 100k dataset used for this project downloaded from the GroupLens website.
 - *NN_Based_model_FormattedOutput* is a GOOGLE colab notebook with the code for training, evaluating and predicting movie recommendations based on a neural network printing formatted recommendations
 - *SML310_proj* python notebook for collaborative filtering and content based movie recommenders and then producing respective movie recommendations.
+- *SML310* Final presentation for end of term project.
 
 ### Bibliography:
 
